@@ -1,0 +1,4 @@
+# TODO: add flags to generate debug information
+ccflags-y = -g
+
+obj-m = oops_mod.o
